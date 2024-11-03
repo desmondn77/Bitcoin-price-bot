@@ -3,12 +3,12 @@ In this section, some of the most widely used Telegram libraries are given, whic
 ## List of Contents
 * Overview
 * List of Libraries
-*    * python-telegram-bot
-*    * telepot
-*    * aiogram
-*    * pyTelegramBotAPI
-*    * telegram
-*    * Pros & Cons
+    * python-telegram-bot
+    * telepot
+    * aiogram
+    * pyTelegramBotAPI
+    * telegram
+    * Pros & Cons
 * Conclusion
 ## Refrence
 [Telegram Docs](https://core.telegram.org/)
