@@ -8,7 +8,7 @@ In this section, some of the most widely used Telegram libraries are given, whic
     * aiogram
     * pyTelegramBotAPI
     * telegram
-    * Pros & Cons
+* Pros & Cons
 * Conclusion
 ## Refrence
 [Telegram Docs](https://core.telegram.org/)
